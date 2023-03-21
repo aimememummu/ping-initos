@@ -1,0 +1,8 @@
+.box{
+
+	background-color:azure;
+	background-image: url("iceberg.png");
+		background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+}

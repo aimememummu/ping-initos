@@ -1,0 +1,26 @@
+#boton {
+	padding: 0,
+}
+#boton li{
+	display: inline;
+
+}
+#boton li a {
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size: 18px;
+	text-decoration: none;
+	float: center;
+	padding-top: 12px;
+	padding-left: 35px;
+	padding-right: 35px;
+	padding-bottom: 12px;
+	background-color:cornflowerblue;
+	color:darkblue;
+}
+
+#boton li a:hover {
+	background-color:darkcyan;
+	margin-top:-22;
+	padding-bottom:  12px;
+}
+
